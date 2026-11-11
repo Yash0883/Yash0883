@@ -1,51 +1,80 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,45:172554,75:991B1B,100:DC2626&height=230&section=header&text=YASH%20KUMAR&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20AI%20ARCHITECTURE%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=58&animation=twinkling&stroke=EF4444&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:EFF6FF,45:DBEAFE,75:FEE2E2,100:FECACA&height=230&section=header&text=YASH%20KUMAR&fontSize=62&fontColor=172554&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20AI%20ARCHITECTURE&descSize=16&descAlignY=60&animation=fadeIn&stroke=DC2626&strokeWidth=2"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF4D4D&center=true&vCenter=true&width=850&height=55&lines=Designing+Intelligent+AI+Systems;Exploring+AI+Architecture+%26+GPU+Computing;Building+Autonomous+AI+Agents;Engineering+LLM+%26+RAG+Applications;Working+with+CUDA+%26+AI+Infrastructure" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=850&height=55&lines=Architecting+Intelligent+AI+Systems;Building+Production-Ready+LLM+Applications;Developing+Autonomous+AI+Agents;Exploring+CUDA+%26+GPU+Computing;Engineering+Scalable+RAG+Systems" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/yashailya/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-172554?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yashh0883@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Yash0883">
-<img src="https://img.shields.io/badge/GitHub-Follow-172554?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-334155?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**📍 Faridabad, Haryana, India**
+<img src="https://img.shields.io/badge/📍-Faridabad%2C%20Haryana%2C%20India-EFF6FF?style=flat-square&labelColor=172554"/>
 
 </div>
 
 ---
 
 
+---
+
+
 </div>
 
+---
+
+
+<div align="center">
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML Engineer** with hands-on experience building and deploying production AI applications, training language models, developing RAG systems, and optimizing LLM inference.
+### Building AI Systems. Engineering Intelligence.
 
-Currently working at **Oscorm Digital Private Ltd.**, where I develop intelligent systems including Small Language Models, recommendation engines, and AI-powered automation solutions.
+</div>
 
-- 🧠 Built a **5-million-parameter Small Language Model** using Sliding Window Attention.
-- 🔍 Developed a **production Legal RAG chatbot** powered by Qwen-40B, BGE-M3, and vLLM.
-- ⚡ Reduced LLM infrastructure costs by **25%** through inference deployment optimization.
-- 🤖 Built AI-powered freelancer recommendation and automated project-planning solutions.
-- 🛡️ Developed PII detection solutions for text, images, and uploaded files.
-- ☁️ Experienced in deploying and managing AI services on AWS.
-- 🚀 Interested in **LLM Engineering, Agentic AI, Model Training, AI Infrastructure, and GPU Architecture**.
+I'm **Yash Kumar**, an AI/ML Engineer passionate about building intelligent systems that solve real-world problems.
 
+Currently working at **Oscorm Digital Private Ltd.**, where I develop AI-powered applications, lightweight language models, recommendation systems and scalable backend solutions.
+
+My experience spans the AI engineering lifecycle — from model development and experimentation to retrieval architecture, inference optimization and production deployment.
+
+### 🔬 What I Work On
+
+- 🧠 **LLM & SLM Engineering:** Developing lightweight language models, transformer architectures, model training and fine-tuning.
+- 🏗️ **AI Architecture:** Designing scalable AI systems, model-serving pipelines and production-ready AI backends.
+- 🤖 **Agentic AI:** Building intelligent agents and automated workflows using modern AI frameworks.
+- 🔎 **RAG & Enterprise Search:** Developing document ingestion, embedding, hybrid retrieval and grounded question-answering systems.
+- ⚡ **GPU & AI Infrastructure:** Exploring GPU architecture, CUDA, inference optimization and efficient model serving.
+- ☁️ **Production AI:** Deploying and managing scalable AI services using Python, FastAPI, Docker and AWS.
+
+### 💼 Professional Highlights
+
+- Built a **5-million-parameter Small Language Model** using Sliding Window Attention for an internal chatbot.
+- Developed a **production legal RAG chatbot** powered by Qwen-40B and BGE-M3.
+- Reduced AI infrastructure costs by **25%** through optimized open-source model serving.
+- Built an SEO indexing platform capable of indexing and ranking URLs within **3–4 hours**.
+- Developed AI-powered recommendation, milestone generation and PII detection solutions.
+
+<br/>
+
+<div align="center">
+
+**I enjoy working at the intersection of AI research, software engineering and scalable infrastructure.**
+
+</div>
 ---
 
 ## 🛠️ Tech Stack & Technologies
