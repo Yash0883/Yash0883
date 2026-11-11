@@ -1,37 +1,106 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:EFF6FF,45:DBEAFE,75:FEE2E2,100:FECACA&height=230&section=header&text=YASH%20&fontSize=62&fontColor=172554&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20AI%20ARCHITECTURE&descSize=16&descAlignY=60&animation=fadeIn&stroke=DC2626&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,35:111827,70:7F1D1D,100:DC2626&text=YASH%20KUMAR&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20THE%20NEXT%20LAYER%20OF%20AI&descSize=17&descColor=FCA5A5&descAlignY=58&animation=twinkling"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=850&height=55&lines=Architecting+Intelligent+AI+Systems;Building+Production-Ready+LLM+Applications;Developing+Autonomous+AI+Agents;Exploring+CUDA+%26+GPU+Computing;Engineering+Scalable+RAG+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=850&color=EF4444&center=true&vCenter=true&width=850&height=45&lines=AI+ENGINEER+%2F+SYSTEM+BUILDER;LLMs+%2F+AGENTIC+AI+%2F+RAG;AI+ARCHITECTURE+%2F+GPU+COMPUTING;BUILDING+INTELLIGENCE+THAT+SCALES" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/yashailya/">
-<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-172554?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yashh0883@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Yash0883">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-334155?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-7F1D1D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/📍-Faridabad%2C%20Haryana%2C%20India-EFF6FF?style=flat-square&labelColor=172554"/>
+<br/>
+
+<div align="center">
+
+# ◈ BEYOND API INTEGRATION. INTO AI ENGINEERING.
+
+**I build, optimize and deploy intelligent systems.**
+
+</div>
+
+I'm **Yash Kumar**, an AI/ML Engineer working across the layers of modern AI — from transformer-based language models and retrieval systems to autonomous agents and production infrastructure.
+
+Currently building AI-powered products at **Oscrom Digital**, with hands-on experience in developing a 5M-parameter language model, production RAG applications, recommendation systems and AI-driven automation.
+
+I enjoy understanding not just *how to use a model*, but **how the system behind it works** — its architecture, retrieval pipeline, inference behavior, memory constraints and deployment.
+
+<br/>
+
+## 🔴 THE ENGINEERING FOCUS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 / MODEL ENGINEERING**
+
+Transformer architectures, SLM development, model training, fine-tuning and LLM applications.
+
+</td>
+<td width="50%" valign="top">
+
+**02 / INTELLIGENT SYSTEMS**
+
+RAG architectures, AI agents, multi-step workflows, semantic retrieval and recommendation systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / AI INFRASTRUCTURE**
+
+GPU architecture, CUDA, inference optimization, model serving and memory-efficient deployment.
+
+</td>
+<td width="50%" valign="top">
+
+**04 / PRODUCTION ENGINEERING**
+
+Python, FastAPI, Docker, AWS, backend systems and scalable AI services.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ⚡ PROOF OF WORK
+
+- **5M-Parameter SLM** — Built an internal chatbot model using Sliding Window Attention.
+- **Production Legal RAG** — Developed a Qwen-40B-powered legal search chatbot using BGE-M3 and vLLM.
+- **25% Infrastructure Cost Reduction** — Optimized open-source model serving and GPU/RAM memory management.
+- **SEO Indexing Platform** — Built a system capable of indexing and ranking URLs within 3–4 hours.
+- **AI-Powered Recommendations** — Developed freelancer-to-project matching and automated milestone generation.
+- **PII Detection** — Built solutions to identify sensitive information across text, images and uploaded files.
+
+<br/>
+
+<div align="center">
+
+### BUILDING SYSTEMS. NOT JUST PROMPTS.
+
+<sub>📍 Faridabad, Haryana, India · Open to AI/ML Engineering Opportunities</sub>
 
 </div>
 
 ---
----
-
 </div>
 
 ---
-
-
 <div align="center">
 
 ## 👨‍💻 About Me
