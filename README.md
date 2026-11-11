@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:EFF6FF,45:DBEAFE,75:FEE2E2,100:FECACA&height=230&section=header&text=YASH%20KUMAR&fontSize=62&fontColor=172554&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20AI%20ARCHITECTURE&descSize=16&descAlignY=60&animation=fadeIn&stroke=DC2626&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:EFF6FF,45:DBEAFE,75:FEE2E2,100:FECACA&height=230&section=header&text=YASH%20&fontSize=62&fontColor=172554&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20AI%20ARCHITECTURE&descSize=16&descAlignY=60&animation=fadeIn&stroke=DC2626&strokeWidth=2"/>
 
 <br/>
 
@@ -26,10 +25,7 @@
 </div>
 
 ---
-
-
 ---
-
 
 </div>
 
@@ -37,7 +33,6 @@
 
 
 <div align="center">
----
 
 ## 👨‍💻 About Me
 
@@ -45,7 +40,7 @@
 
 </div>
 
-I'm **Yash Kumar**, an AI/ML Engineer passionate about building intelligent systems that solve real-world problems.
+I'm **Yash**, an AI/ML Engineer passionate about building intelligent systems that solve real-world problems.
 
 Currently working at **Oscorm Digital Private Ltd.**, where I develop AI-powered applications, lightweight language models, recommendation systems and scalable backend solutions.
 
