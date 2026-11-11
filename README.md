@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,35:111827,70:7F1D1D,100:DC2626&text=YASH%20KUMAR&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20THE%20NEXT%20LAYER%20OF%20AI&descSize=17&descColor=FCA5A5&descAlignY=58&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,35:111827,70:7F1D1D,100:DC2626&text=YASH%20&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=BOLO%20TARA%20RARA&descSize=17&descColor=FCA5A5&descAlignY=58&animation=twinkling"/>
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 </div>
 
-I'm **Yash Kumar**, an AI/ML Engineer working across the layers of modern AI — from transformer-based language models and retrieval systems to autonomous agents and production infrastructure.
+I'm **Yash**, an AI/ML Engineer working across the layers of modern AI — from transformer-based language models and retrieval systems to autonomous agents and production infrastructure.
 
 Currently building AI-powered products at **Oscrom Digital**, with hands-on experience in developing a 5M-parameter language model, production RAG applications, recommendation systems and AI-driven automation.
 
