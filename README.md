@@ -1,33 +1,32 @@
-# Hey, I'm Yash 👋
-
-### AI/ML Engineer | Generative AI | LLMs | RAG Systems | Machine Learning | Deep Learning
-
-I build practical AI systems — from small language models and RAG-powered applications to intelligent recommendation systems and AI agents.
-
-Currently working as an **AI/ML Engineer at Oscrom Digital**, developing AI-powered products and backend systems.
-
-- 🧠 Building and experimenting with Small Language Models (SLMs)
-- 🔎 Developing RAG pipelines and enterprise search systems
-- 🤖 Working with LLMs, embeddings, AI agents and recommendation systems
-- ⚙️ Building AI backends using Python and FastAPI
-- ☁️ Exploring AI infrastructure and cloud deployment
-
-**My focus:** Turning AI research and ideas into useful, working applications.
-
 
 <div align="center">
 
-# Hey, I'm Yash Kumar 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,45:172554,75:991B1B,100:DC2626&height=230&section=header&text=YASH%20KUMAR&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20AI%20ARCHITECTURE%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=58&animation=twinkling&stroke=EF4444&strokeWidth=1"/>
 
-### AI/ML Engineer | Generative AI | LLMs | RAG Systems
+<br/>
 
-**Building intelligent systems, training language models, and taking AI applications to production.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF4D4D&center=true&vCenter=true&width=850&height=55&lines=Designing+Intelligent+AI+Systems;Exploring+AI+Architecture+%26+GPU+Computing;Building+Autonomous+AI+Agents;Engineering+LLM+%26+RAG+Applications;Working+with+CUDA+%26+AI+Infrastructure" alt="Typing SVG"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashailya/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashh0883@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash0883)
+<br/><br/>
 
-📍 **Faridabad, Haryana, India**
+<a href="https://www.linkedin.com/in/yashailya/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yashh0883@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Yash0883">
+<img src="https://img.shields.io/badge/GitHub-Follow-172554?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**📍 Faridabad, Haryana, India**
+
+</div>
+
+---
+
 
 </div>
 
