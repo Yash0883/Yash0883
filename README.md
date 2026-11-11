@@ -185,52 +185,79 @@ Developed a chatbot that collects user details and symptoms through a step-by-st
 
 ---
 
-## 💼 Professional Experience
 
-### AI/ML Engineer
-**Oscorm Digital Private Ltd. | Jan 2026 – Present**
+## ⚡ Featured Builds
 
-- Developed a 5M-parameter Small Language Model with Sliding Window Attention.
-- Built an SEO indexing platform capable of indexing and ranking URLs within 3–4 hours.
-- Designed an intelligent freelancer recommendation system.
-- Developed AI-driven milestone generation and content enhancement features.
-- Built PII detection solutions for text, images, and files.
-- Deployed and managed production AI services on AWS.
+### 🧠 5M Parameter Small Language Model (SLM)
 
-### AI Software Developer
-**Austere Systems Limited | Aug 2025 – Dec 2025**
+Designed and developed a lightweight 5-million-parameter Small Language Model for an internal company chatbot, using Sliding Window Attention inspired by the architecture used in Mistral models.
 
-- Developed a production legal RAG chatbot using Qwen-40B, BGE-M3, and vLLM.
-- Reduced LLM infrastructure costs by 25%.
-- Optimized GPU and RAM memory utilization for model inference.
-- Improved retrieval performance and model-serving reliability.
-
-### Data Science Intern
-**Potential Power Solutions | May 2024 – Nov 2024**
-
-- Collected, cleaned, and validated data from multiple sources.
-- Analyzed datasets to identify trends and business insights.
+`Python` `SLM` `Transformer Architecture` `Sliding Window Attention` `LLM Development`
 
 ---
 
-## 🎓 Education
+### ⚖️ Production Legal Search Chatbot
 
-**B.Tech — Computer Science**  
-J.C. Bose University of Science and Technology, Faridabad
+Built a production-ready legal search chatbot powered by Qwen-40B and BGE-M3 embeddings using a Retrieval-Augmented Generation (RAG) architecture. Optimized model serving and hybrid GPU/RAM memory management, reducing infrastructure costs by 25%.
 
-**Diploma — Computer Engineering**  
-Haryana State Board of Technical Education
+`Python` `Qwen-40B` `RAG` `BGE-M3` `vLLM` `pgvector` `FastAPI`
 
 ---
 
-## 📜 Certifications
+### 🔎 Scalable SEO Indexing Platform
 
-- IBM Data Science Professional Certificate
-- IBM Databases and SQL for Data Science with Python
-- NPTEL — Software Testing
-- NPTEL — Internet of Things
+Developed a scalable SEO indexing platform capable of indexing and ranking URLs within 3–4 hours, helping automate large-scale URL discovery and ranking workflows.
+
+`Python` `Search Systems` `Indexing` `Ranking` `AWS`
 
 ---
+
+### 🎯 AI-Powered Freelancer Recommendation System
+
+Designed an intelligent recommendation system to match freelancers with relevant projects. Integrated AI-driven milestone generation and content enhancement to automate project planning and improve project descriptions.
+
+`Python` `BGE-M3` `Embeddings` `Recommendation Systems` `MySQL`
+
+---
+
+### 🔐 Personal Information Detection (PII)
+
+Developed AI-driven solutions to identify sensitive personal information across text, images, and uploaded files, helping improve data security and compliance.
+
+`Python` `NLP` `Computer Vision` `PII Detection` `AI Security`
+
+---
+
+### 🎙️ DeepSpeech2-Based Speech-to-Text Model
+
+Developed a DeepSpeech2-based speech recognition system with audio preprocessing, model training, and evaluation using Word Error Rate (WER) to measure transcription performance.
+
+`Python` `TensorFlow` `Keras` `Deep Learning` `Speech Recognition` `WER`
+
+---
+
+### 🏥 Medi Chat-BOT — Disease Prediction Assistant
+
+Built an interactive medical chatbot that collects user information such as name, age, and symptoms, and provides options for disease prediction and symptom checking using machine learning.
+
+`Python` `Machine Learning` `NLP` `Healthcare AI` `Chatbot`
+
+---
+
+### 👁️ Face Recognition Attendance System
+
+Developed a face recognition-based attendance system that compares real-time facial images against stored reference images to identify individuals.
+
+`Python` `Computer Vision` `Face Recognition` `Deep Learning`
+
+---
+
+### 📊 Netflix Subscription Analysis
+
+Performed exploratory data analysis on Netflix subscription data to understand customer subscription patterns and analyze regular versus other subscription behavior.
+
+`Python` `Pandas` `NumPy` `Data Analysis` `Data Visualization`
+
 
 ## 🟡 Pac-Man Contribution Graph
 
