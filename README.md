@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Yash 👋
 
 ### AI/ML Engineer | Generative AI | LLMs | RAG Systems | Machine Learning | Deep Learning
